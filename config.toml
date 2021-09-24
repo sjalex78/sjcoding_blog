@@ -15,6 +15,16 @@ title = "Sarah Alexander"
 author = "Sarah Alexander"
 description = "LIFELONG LEARNER"
 profilePicture = "images/sarah-profile.jpg"
+contentratio = 0.7
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/sarahjalexander/"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:sjalex78@gmail.com"
 
 [menu]
 
