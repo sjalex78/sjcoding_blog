@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = 'Learning to code'
 theme = 'anatole'
 
+# allow script tags in my content
+# as per https://discourse.gohugo.io/t/javascript-on-page/4166/8
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 title = "Sarah Alexander"
 author = "Sarah Alexander"
