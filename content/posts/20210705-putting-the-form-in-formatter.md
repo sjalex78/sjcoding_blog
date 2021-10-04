@@ -17,10 +17,10 @@ categories:
 {{< gist sjalex78 59c93601dbe33abd091418e4f8d5acf2>}}
 
 > <span style="font-size: 2em;">gets take the input from the user </span>
-      
+
 > <span style ="font-size: 2em;">while chomp simple removes the extra line</span>
 
 
-The *method* to capitilize was forced to only be applies to the variable answer rather than the variable by simply making it excitingjust add a ! to the end.
+The *method* to capitilize was forced to only be applies to the variable answer rather than the variable by simply making it exciting just add a ! to the end.
 
 Now I wonder what a ? might do ......

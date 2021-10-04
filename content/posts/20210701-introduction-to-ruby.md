@@ -15,7 +15,7 @@ categories:
 ---
 ![First Line of Ruby](/images/PreCourse/intro-to-ruby.png)
 
-This module really helped me to my head around variables, methods, comments, strings. Below is a series of screen shots and my notes. I am writing handwritten notes when undetaking all these units- I feel writing down ideas really helps me to process new ideas and the transformation of information definately a learning strategy that has been very sucessful for me.
+This module really helped me to my head around variables, methods, comments, strings. Below is a series of screen shots and my notes. I am writing handwritten notes when undertaking all these units- I feel writing down ideas really helps me to process new ideas and the transformation of information definately a learning strategy that has been very successful for me.
 
 ![Handwritten_notes](/images/PreCourse/IntrotoRuby_notbook.jpg)
 

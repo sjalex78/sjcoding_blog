@@ -10,9 +10,9 @@ categories:
   - learning
 
 ---
-  
 
-Today was the first day of the 6th Lockdown for Melbourne. There is some solis in learning to code in amongst the croazy homeschooling and teaching. I also have a deadline to try to get this pre learning done by the end of August. My struggle is coming down to a lack of practice and getting stuck on blocks. 
+
+Today was the first day of the 6th Lockdown for Melbourne. There is some solis in learning to code in amongst the crazy homeschooling and teaching. I also have a deadline to try to get this pre learning done by the end of August. My struggle is coming down to a lack of practice and getting stuck on blocks.
 
 My Code today cuts up a string, creates an array and looks at the frequency of word in a given input
 
