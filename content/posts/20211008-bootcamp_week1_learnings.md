@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Le Wagon"
-date: 2021-10-08 T17:41:19+11:00
+date: 2021-10-08T17:41:19+11:00
 draft: false
 
 categories:
