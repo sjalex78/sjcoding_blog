@@ -40,3 +40,9 @@ url = "mailto:sjalex78@gmail.com"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+  [[menu.resume]]
+  name = "Resume"
+  weight = 300
+  identifier = "resume"
+  url = "/resume/"
