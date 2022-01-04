@@ -51,8 +51,11 @@ environment. This included maintaining OH&S standards as well as ISO 9000 standa
 
 #### 2009 Science Teacher Intern Wesley College
 Assisting teacher and laboratory technicians in the senior science school. Development of a student database for science learning outcomes and results.
+
 #### 2003-2008 Masters Research Monash Water Studies Centre
-Scholarship/bursary funded by Department of Sustainability and Environment to research “ Effect of Bushfires on Receiving Waters, Eastern Victoria”.Markdown previewMarkdown previewMarkdown previewMarkdown previewMarkdown previewMarkdown previewMarkdown previewMarkdown previewMarkdown previewMarkdown preview2007-2009 Laboratory Technician Water Studies Centre Monash University
+Scholarship/bursary funded by Department of Sustainability and Environment to research “ Effect of Bushfires on Receiving Waters, Eastern Victoria”
+
+#### 2007-2009 Laboratory Technician Water Studies Centre Monash University
 The testing of water samples using FIA, AAS, TSS and other water quality methodology and reporting of results.
 #### Nov 2006- Feb 2007 Technical Coordinator Mornington Peninsula Regional Gallery
 Sourced and supplied audio-visual equipment for exhibits: Sidney Nolan: Antarctic Journey and The house on the hill:A portrait of Chancellor & Patrick's McCraith House, Dromana, 1955

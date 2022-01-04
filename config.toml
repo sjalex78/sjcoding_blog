@@ -23,10 +23,16 @@ contentratio = 0.8
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sarahjalexander/"
+
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:sjalex78@gmail.com"
+
+[[params.socialIcons]]
+icon = "fab fa-fw fa-github"
+title = "github"
+url = "https://github.com/sjalex78"
 
 
 [menu]
@@ -37,12 +43,6 @@ url = "mailto:sjalex78@gmail.com"
   weight = 100
   url = "/"
 
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
 
   [[menu.main]]
   name = "Blog"
@@ -74,3 +74,10 @@ url = "mailto:sjalex78@gmail.com"
   weight = 300
   identifier = "science"
   url = "/science/"
+
+
+  [[menu.main]]
+  name = "L&L"
+  weight = 300
+  identifier = "loaf&lily"
+  url = "/loaflily/"

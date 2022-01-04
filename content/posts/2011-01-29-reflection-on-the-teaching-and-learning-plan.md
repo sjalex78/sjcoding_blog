@@ -1,0 +1,13 @@
+---
+title: Reflection on the Teaching and Learning Plan
+author: Sarah
+type: post
+date: 2011-01-29T10:23:11+00:00
+url: /2011/01/29/reflection-on-the-teaching-and-learning-plan/
+categories:
+  - Uncategorized
+
+---
+### 
+
+  * I felt that the combination of experimental work with thinking activities was well balanced. The creative element of experiments and linkages is definitely something I feel comfortable to do and it worked well to balance this unit of work. The time taken to undertake the experiments was more that I expected and students were not efficient as moving from experiments to clean up and back to work. I underestimated this time and this meant that sections of what I want to do were dropped. I Could have spent more time with students for their project and perhaps expected more knowledge of this process that was actually known to students. If I could do this main lesson again I would have more theory for students to copy and discuss. I relied on verbal communication for this information too often and could have had more written explanations for other learning styles. I would also like to do this unit in a laboratory facility to have students take the safety aspect of experiments a little more seriously. Monitoring students work on a teacher check basis did work for the majority of students however I wonder if using a Can-Ban ticket system combine with students periodically handing in work would prevent some of the delayed submissions at the end of the unit. From the analysis of my own teaching the learning of the students I would like to change how I manage difficult students who are reluctant to do work. Although I did have one-on-one talks with difficult students to stamp out negative talk and &#8220;no work in class attitude&#8221; I think that involving parents and other teachers earlier to prevent these attitudes and habits would be beneficial. Having weekly quizzes on concepts covered would also help me to monitor students understanding and help students with a more competitive nature &#8220;need to want to learn concepts&#8221;. This unit of work certainly has improved my confidence and has helped me to consolidate all the teaching learning I have done over the 2010 academic year. In the future I would like to obtain a better understanding of how to monitor the learning of groups of students with multiple learning limitations. I was fortunate to have a Dyslexic student who has effectively found a way to overcome her disability, but how do I help other who have not found how to succeed when faced with a learning difficulty. I would also like to also focus on how to sustain and extend smarter students int he class while maintaining their involvement in group activities.
