@@ -16,6 +16,8 @@ author = "Sarah Alexander"
 description = "LIFELONG LEARNER"
 profilePicture = "images/sarah-profile.jpg"
 contentratio = 0.8
+##mainSections = []
+
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -25,6 +27,7 @@ url = "https://www.linkedin.com/in/sarahjalexander/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:sjalex78@gmail.com"
+
 
 [menu]
 
@@ -41,8 +44,33 @@ url = "mailto:sjalex78@gmail.com"
   identifier = "about"
   url = "/about/"
 
-  [[menu.resume]]
+  [[menu.main]]
+  name = "Blog"
+  weight = 300
+  identifier = "blog"
+  url = "/posts/"
+
+
+  [[menu.main]]
   name = "Resume"
   weight = 300
   identifier = "resume"
   url = "/resume/"
+
+  [[menu.main]]
+  name = "Portfolio"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[menu.main]]
+  name = "Teaching"
+  weight = 300
+  identifier = "teaching"
+  url = "/teaching/"
+
+  [[menu.main]]
+  name = "Science"
+  weight = 300
+  identifier = "science"
+  url = "/science/"
