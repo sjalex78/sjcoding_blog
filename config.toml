@@ -34,6 +34,10 @@ icon = "fab fa-fw fa-github"
 title = "github"
 url = "https://github.com/sjalex78"
 
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
 
 [menu]
 
@@ -45,7 +49,7 @@ url = "https://github.com/sjalex78"
 
 
   [[menu.main]]
-  name = "Blog"
+  name = "Reflect"
   weight = 300
   identifier = "blog"
   url = "/posts/"

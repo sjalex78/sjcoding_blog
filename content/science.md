@@ -4,6 +4,7 @@ date: 2022-01-04T14:00:00+10:00
 Description: "science"
 draft: false
 ---
+
 #### 2003-2008 Masters Research [Effect of Bushfires on Receiving Waters, Eastern Victoria](https://webarchive.nla.gov.au/awa/20050215033512/http://pandora.nla.gov.au/pan/47676/20050215-0000/www.dse.vic.gov.au/dse/nrence.nsf/fid/-50C870447326E485CA256ED10025C551/%24file/Monash.pdf)
 Monash University Water Studies Centre
 Scholarship/bursary student funded by Department of Sustainability and Environment to research
