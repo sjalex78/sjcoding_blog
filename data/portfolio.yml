@@ -5,16 +5,17 @@ portfolioitems:
       - name: She-Sci-Code
         images: 'images/portfolio/bob_landing_page.png'
         link: https://loaf-lily.com//
-        description: 'Facilitating learning coding Via VCE Science Research Investigations. '
+        description: 'Facilitating learning coding Via VCE Science Research Investigations.'
         tags:
           - Ruby on Rails
           - education
         status: 'In Development'
         start: 'Jan 2022'
-        
+        authors:
+          - Sarah Alexander
+
       - name: BOB Build Our Business
         #image: 'images/portfolio/bob_landing_page.png'
-        link: https://le-bob-app.herokuapp.com/
         link: https://le-bob-app.herokuapp.com/
         description: 'Le Wagon Boot Camp Final Project. Target: People looking for software to leverage to grow their businesses & complete tasks more efficiently. Pain: Business owners & freelancers spend precious time trying to find the right software to use to complete their next task. Solution: An all-in-one business software Wiki application with relevant software categorised for ease of access. Originality: Rather than scouring blog posts and review sites on search engines, they can access relevant info in one place'
         tags:
@@ -23,6 +24,10 @@ portfolioitems:
         status: 'Finished'
         start: 'Dec 2021'
         end: 'Dec 2021'
+        authors:
+          - Sarah Alexander
+          - Yan San
+          - Emmanuel Cadot
       - name: Doggy Daycare
         link: https://gohugo.io/
         description: 'A one week project to great a doggy daycare booking app. Give your dog a friend at home or head out for a play to your local doggy daycare!'
@@ -32,3 +37,7 @@ portfolioitems:
         tags:
           - learning
           - Ruby on Rails
+        authors:
+          - Sarah Alexander
+          - Yan San & Emmanuel Cadot
+

@@ -17,7 +17,8 @@ description = "LIFELONG LEARNER"
 profilePicture = "images/sarah-profile.jpg"
 contentratio = 0.8
 ##mainSections = []
-
+displayMode = "dark"
+readMore = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"

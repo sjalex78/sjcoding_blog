@@ -7,13 +7,13 @@ categories:
   - library
   - organise
   - sorting
-  - ifelse
+  - elsif
   - define
   - method
   - array
 
 ---
- 
+
 
 Pulling together a number of ideas; sorting, sorting! if else and defining a method and applying it to an array!
 

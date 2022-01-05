@@ -1,5 +1,5 @@
 ---
-title: "Day 1 Le Wagon"
+title: "Le Wagon Boot Camp"
 date: 2021-10-04T17:41:19+11:00
 draft: false
 
@@ -13,6 +13,16 @@ categories:
   - command line
   - Kitt
 ---
+
+Le Wagon provides an intensive full stack bootcamp.
+
+
+  > <img src="/images/portfolio/Sarah_quote_Instagram.png" alt="drawing" width="300"/>
+> <img src="/images/portfolio/Sarah_Portrait.png" alt="drawing" width="200"/>
+
+
+
+
 
 **Day 1 finally arrives** with a series of following the command lane recipe cards to get our computers ready! After a few hours of set up, equalling lot sof waiting for downloads and utilising the teachers knowledge for tricky little bugs we had our first learning session. The afternoon was basically a way to help  orientate ourselves in the Le Wagon learning platform-Kitt and practice with some pair program undertaking some very simple Ruby code fixes and learning the art of git!
 
