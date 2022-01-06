@@ -7,4 +7,4 @@ After a huge 2020 2021 in Melbourne -  a fresh and new perspective about my prof
 Checkout my Blog, Portfolio, Science and Teaching Pages to learn about my coding development and how a professional educator learns a new language and transfers the knowledge of learning principals into a meaningful and inspiring career in tech.
 ____
 
-  > ## Reflect, Refract and try no to ReWrite (a blog)
+  > ## Reflect, Refract and try not to ReWrite (a blog)
