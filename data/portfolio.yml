@@ -2,9 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Coding Projects
     portfolioitem:
-      - name: She-Sci-Code
+      - name: Sci-Code
         images: 'images/portfolio/bob_landing_page.png'
-        link: https://loaf-lily.com//
+        link: /posts/20211010_concat_set_zip/
         description: 'Facilitating learning coding Via VCE Science Research Investigations.'
         tags:
           - Ruby on Rails
@@ -40,4 +40,3 @@ portfolioitems:
         authors:
           - Sarah Alexander
           - Yan San & Emmanuel Cadot
-

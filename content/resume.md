@@ -10,8 +10,7 @@ draft: false
 | **phone** | +61 405 020 565                                          |
 | **about** | [LinkedIn](https://www.linkedin.com/in/sarahjalexander/) |
 |           | [Github sjalex78](https://github.com/sjalex78)           |
-|           | [Portfolio](https://sarahjalexander.com/)                |
-|           | [Blog](https://sarahjalexander.netlify.app/)             |
+|           | [Portfolio](https://sarahjalexander.netlify.app/)             |
 
 > ### PROFESSIONAL SUMMARY
 
