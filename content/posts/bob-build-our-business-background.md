@@ -7,11 +7,10 @@ series:
   - Ruby on Rails
 
 ---
-Overview of the problem
-{{< toc >}}
 
 ## So who is BOB?
-  Bob stands for BUILD OUR BUSINESS and is an app designed to help businesses to find, store and share software business tools ideas. BOB was developed in the last weeks of Le Wagon Boot Camp batch #757 by Le Wagon students: Sarah, Yan and Emmanual.
+ [Explore and see what BOB is all about!](https://le-bob-app.herokuapp.com/)
+  Bob stands for BUILD OUR BUSINESS and is an app designed to help businesses to find, store and share software business tools ideas. BOB was developed in the last weeks of Le Wagon Boot Camp batch #757 by Le Wagon sudents: Sarah, Yan and Emmanual.
 
 ### The Problem
 
@@ -52,6 +51,8 @@ Using Ruby on Rails
 ### Backend
 > #### Gems
 
+BOB utilized a number of gems to help with the functionality of the final product. The basic rails frame work used:  
+
 > | <ins> Gem </ins> | <ins> Function for BOB </ins> | <ins> Detail </ins> |
 | :---------  | :---------------  | :---------------  | 
 | ['acts-as-taggable-on'](https://github.com/mbleigh/acts-as-taggable-on) | what why when    | what why when great frustrating  |
@@ -82,3 +83,9 @@ outline the loves, challenges
 ## Learning
 ### What Worked Well
 ### Next Time Lets....
+
+-----
+
+{{< toc >}}
+
+-----
