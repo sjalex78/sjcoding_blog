@@ -1,7 +1,7 @@
 ---
 title: "A guide for creating respec tests "
 date: 2022-01-14T11:44:53+11:00
-draft: true
+draft: false
 
 categories:
   - learning
@@ -68,12 +68,8 @@ RSpec.describe Tennis do
   it 'updates the score when server and receiver both win three points each' do
   tennis = Tennis.new
     # pending
-    tennis.server_wins_point
-    tennis.receiver_wins_point
-    tennis.server_wins_point
-    tennis.receiver_wins_point
-    tennis.server_wins_point
-    tennis.receiver_wins_point
+    3.times{tennis.server_wins_point}
+    3.times{tennis.receiver_wins_point}
     expect(tennis.score).to eq 'Deuce'
   end
   # Test 2
