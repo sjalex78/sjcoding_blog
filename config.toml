@@ -79,10 +79,3 @@ url = "https://github.com/sjalex78"
   weight = 300
   identifier = "science"
   url = "/science/"
-
-
-  [[menu.main]]
-  name = "L&L"
-  weight = 300
-  identifier = "loaf&lily"
-  url = "/loaflily/"
