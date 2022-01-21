@@ -9,18 +9,20 @@ My ethos as a teacher here, context, ideas hopes aims
 {{< toc >}}
 
 ## Maths
-### Class 9
-#### Conic Sections
-overview
-links
-Teacher resources (contact me for password)
+* _Primary_
+	* [Potato Counting, Estimation and Arrays](/posts/20111220-potato-maths/)
+
+* _Secondary_
+	* [Class 9 Conic Sections]()
 
 ## Science
+* _Secondary_
+	* [Class 7 Combustion]()
+	* [Class 7 Simple Machines]()
+	* [Class 9 Transport and Communication]()
+	* [Class 9 Plant Chemistry]()
+	* [Class 10 Acids, Bases and Salts]()
 
-### Class 7
-#### Combustion
-#### Simple Machines
-
-### Class 9
-#### Transport and Communication
-#### Plant Chemistry
+## Outdoor Education
+* _Secondary_
+	* [Hiking Program]() 
