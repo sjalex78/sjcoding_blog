@@ -2,6 +2,17 @@ portfolioitems:
   # portfolio category
   - title: Coding Projects
     portfolioitem:
+      - name: Sci-Poster
+        images: 'images/portfolio/bob_landing_page.png'
+        link: https://github.com/sjalex78/sci-code
+        description: 'FAn app for secondary school students studying science to generate printable scientific posters and research posters. The app will also enable student collaboration and for feedback from educators which will help students learn to create science posters and refine their final poster output.'
+        tags:
+          - Ruby on Rails
+          - education
+        status: 'In Development'
+        start: 'Feb 2022'
+        authors:
+          - Sarah Alexander
       - name: BOB Build Our Business
         #image: 'images/portfolio/bob_landing_page.png'
         link: https://le-bob-app.herokuapp.com/
@@ -16,17 +27,6 @@ portfolioitems:
           - Sarah Alexander
           - Yan San
           - Emmanuel Cadot
-      - name: Sci-Code
-        images: 'images/portfolio/bob_landing_page.png'
-        link: /posts/20211010_concat_set_zip/
-        description: 'Facilitating learning coding Via VCE Science Research Investigations.'
-        tags:
-          - Ruby on Rails
-          - education
-        status: 'In Development'
-        start: 'Jan 2022'
-        authors:
-          - Sarah Alexander
 
 
       - name: Doggy Daycare
