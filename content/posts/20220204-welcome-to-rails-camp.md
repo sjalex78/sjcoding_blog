@@ -8,10 +8,12 @@ categories:
   - test driven development
   - ruby
 ---
-## BACK to RAILS Camp
-### 2020 => 2021 =>2022
+## BACK to RAILS Camp ~~2020~~ ~~2021~~ 2022
 
-Finally after many covid induced stumbles ~~Rails Camp 2020~~, ~~2021~~ 2022 is underway, taking place at [Woodhouse Activity Centre](https://www.woodhouse.org.au) in the Adelaide Hills, South Australia. the majority of participants have "escaped" from the Eastern states to attend this event for Ruby enthusiast. 
+Finally after many covid induced stumbles 
+Rails Camp ~~2020~~
+ ~~2001~~
+ 2022 is underway, taking place at [Woodhouse Activity Centre](https://www.woodhouse.org.au) in the Adelaide Hills, South Australia. the majority of participants have "escaped" from the Eastern states to attend this event for Ruby enthusiast. 
 
 After the mandatory RAT test before registration and upon being given the all clear, participants were able to settle in to the dorm accomadation or set up a tent in the lush bush setting. There were many very happy "Hellos", this camp is obviously an opportunity to get into some coding as much as an opportunity for people to reconnect with like minded people!
 
