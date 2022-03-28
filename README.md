@@ -3,7 +3,11 @@
 ```
 hugo --watch server --buildFuture --buildDrafts
 ```
+
+## generate new blog post
+
 ## shortcode info
+
 
 ### table of content
 ```
