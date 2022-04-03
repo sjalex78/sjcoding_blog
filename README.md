@@ -6,6 +6,10 @@ hugo --watch server --buildFuture --buildDrafts
 
 ## generate new blog post
 
+```
+hugo new posts/date-post-title-here.md
+````
+
 ## shortcode info
 
 

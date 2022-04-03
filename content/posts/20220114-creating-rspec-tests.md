@@ -8,9 +8,8 @@ categories:
   - rspec
   - test driven development
   - ruby
----
 
-----
+---
 
 Having completed a boot camp and now rebooting my learning with [exercism](https://exercism.org/) I wanted to start creating my own tests for some "puzzle" ideas I want to develop. On the advise of a senior developer I created a [tennis game](https://github.com/sjalex78/learning/tree/main/tennis) and use rspec test to help drive this game development. Funny enough this is also a very topical sport to target with the Djokovic saga going on too..  
 

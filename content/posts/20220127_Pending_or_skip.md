@@ -2,7 +2,6 @@
 title: "Pending or skip for RSPEC tests"
 date: 2022-01-27T08:04:13+11:00
 draft: true
-
 categories:
   - learning
   - rspec
