@@ -16,7 +16,7 @@ portfolioitems:
       - name: BOB Build Our Business
         #image: 'images/portfolio/bob_landing_page.png'
         link: https://le-bob-app.herokuapp.com/
-        description: 'Le Wagon Boot Camp Final Project. **Target:** People looking for software to leverage to grow their businesses & complete tasks more efficiently. **Pain:** Business owners & freelancers spend precious time trying to find the right software to use to complete their next task. **Solution:** An all-in-one business software Wiki application with relevant software categorised for ease of access. **Originality:** Rather than scouring blog posts and review sites on search engines, they can access relevant info in one place. **Read about** the development of [BOB here](/posts/bob-build-our-business-background/).'
+        description: 'Le Wagon Boot Camp Final Project. **Target:** People looking for software to leverage to grow their businesses & complete tasks more efficiently. **Pain:** Business owners & freelancers spend precious time trying to find the right software to use to complete their next task. **Solution:** An all-in-one business software Wiki application with relevant software categorised for ease of access. **Originality:** Rather than scouring blog posts and review sites on search engines, they can access relevant info in one place. **Read about** the development of [BOB here](/posts/20211202-bob-build-our-business-background/).'
         tags:
           - Ruby on Rails
           - App
