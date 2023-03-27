@@ -1,118 +1,89 @@
 ---
 title: "Sarah's Resume"
-date: 2021-12-13T19:49:33+10:00
+date: 2023-03-21T19:49:33+10:00
 draft: false
 ---
 
-|           | ** Where to Find me online! **                                     |
+|           | Where to Find me online!                                     |
 | --------- | -------------------------------------------------------- |
+| **name** | Sarah J Alexander         |
 | **email** | [sjalex78@gmail.com](mailto:sjalex78@gmail.com)          |
 | **phone** | +61 405 020 565                                          |
 | **about** | [LinkedIn](https://www.linkedin.com/in/sarahjalexander/) |
 |           | [Github sjalex78](https://github.com/sjalex78)           |
 |           | [Portfolio](https://sarahjalexander.netlify.app/)             |
 
-> ### PROFESSIONAL SUMMARY
+### PROFESSIONAL SUMMARY
 
-I am **passionate** about people and information and decided that becoming a developer would be an incredible way to understand the connection between and within both.
-Computer \***\*technology** has become embedded into so many industries I have been a part of **education**, ecommerce or **science** research. In being able to understand how programming works I hope to be able to work in this industry in a meaningful and progressive way to help the community to access information to make better decisions about education, economic and environmental choices in their lives.
+I am a passionate, hard working and curious junior developer who has strong team building skills and comfortable challenging ideas to ensure that code quality, design and solutions for clients is an appropreate, cost effective and delivered in a timely manner. I have strong communication and presentation skills and understand a wide variety of people/team dynamics and how to maintain a good working environment. My breadth of technical knowledge has expanded significantly during my time as a Graduate Developer with Thoughtworks wher I have worked with a number of clients using React, PHP, Ruby and Drupal.
+
 Although most of my roles have required me to work independently, they have made me very focused on delivering results and being accountable for my time. My work has required me to work as part of a team and to bring out the best in people for a good result.
 
-I have extensive experience presenting to an extensive variety of audiences and very capably prepare and deliver effective presentations and lessons. As part of my Master’s work, I had to communicate with the wider public through various talks and public forums. My position as a lab technician at the Invetech Research and Development required dealing with a lot of software. After the completion of a series of MS Access database courses I was able to create a database driven test system. This was exported to various third parties worldwide that used the hardware system under development. I continued to utilise my computer skills in my thesis work, both in consolidating and analysing data, researching via the Internet and writing the actual thesis. I have also successfully managed a research biohazard laboratory which required sharp judgment skills in order to maintain an effective and safe working
-environment. This included maintaining OH&S standards as well as ISO 9000 standards, ordering reagents and maintaining equipment.
-> ## Skills
-
-## Professional Experience
- #### 2017-2021 -    Collingwood College    - Secondary Science Teacher
-   - My understanding of current education models and the curriculum framework in Victoria and Australia gives me a great base to incorporate my own creative ideas into various learning disciplines.
-  >
-  > - I have provided an engaging and yet challenging science classroom for all learner types. My experience as a Steiner teacher combine with the MYP inquiry based education has enabled me to experience a wide spectrum of learning frameworks both of which have many common elements.
-  >
-  > - I have good experience in allowing people to link experiences, emotions and passion around learning the facts of a concept to lead to further learning outcomes. |
-
-#### 2014-2017 -  Preshil
- #### Science Teacher
-> - Curriculum development and teaching science underpinned using the International Baccalaureate MYP inquiry based framework for year 7-10 science. VCE Biology and Chemistry, IB Diploma program curriculum planning for environmental science (ESS).
->
-> - Planned excursions and supported staff on school camps. Worked with colleagues to develop policies such as for academic honesty. Wrote articles for school newsletter to update the community on the science departments current learning focus.
->
-> - Regular use of ICT outside and within the classroom such as google classroom, powerpoint, compass, rubicon and managebac.
-
-#### Laboratory Technician
-> - Development of risk assessment, resource sharing management between support and teaching staff, laboratory audits,and MSDS database development and maintenance.
-
-
-#### 2013 Presenter Babes In Arms
-> - Presenter for Melbourne Expos for ergo carriers. Communicating to a wide variety of people.
-
-#### 2010-2012  Sophia Mundi Science and Math Teacher
-> - Teaching and development of science and math Steiner main lessons for Classes 7- 10. Teaching mathematics, bike education and science for class 7/8.
-
-#### 2009 Science Teacher Intern Wesley College
-Assisting teacher and laboratory technicians in the senior science school. Development of a student database for science learning outcomes and results.
-
-#### 2003-2008 Masters Research Monash Water Studies Centre
-Scholarship/bursary funded by Department of Sustainability and Environment to research “ Effect of Bushfires on Receiving Waters, Eastern Victoria”
-
-#### 2007-2009 Laboratory Technician Water Studies Centre Monash University
-The testing of water samples using FIA, AAS, TSS and other water quality methodology and reporting of results.
-#### Nov 2006- Feb 2007 Technical Coordinator Mornington Peninsula Regional Gallery
-Sourced and supplied audio-visual equipment for exhibits: Sidney Nolan: Antarctic Journey and The house on the hill:A portrait of Chancellor & Patrick's McCraith House, Dromana, 1955
-#### 2000-2003 Laboratory Research Technician Invetech Vision Systems Australia
-The coordination of a research laboratory assessing early prototype instruments Duties: ensuring quality control of data, laboratory stock, design and management of the laboratory database, reporting of results
-#### 1996-2003 Science Presenter (casual) Monash Science Centre
-Being a 'Scientists in the School' running student based chemistry programs for 6-12 year olds to supplement the primary school science curriculum. Development and presentation of chemistry programs.
-#### 1996-2000 Swimming Instructor (casual) Frankston City Council
-Swimming Teacher for children and adults.
-#### 2000 Process Chemist Henkel Australia P/L
-Graduate position in industrial chemistry and sales, on site vendor based at Ford Motor Company. Daily reports for Ford motor company paint facility, monitoring phosphate facility, stock control, monitoring of small phosphate facilities for other automotive facilities, sales
-
-## Education
-#### 2021 Le Wagon Full Stack Boot Camp
-#### 2009 Graduate Diploma of Education Monash University
-- Specialisms: P-12 Chemistry, Biology, General Science and Years 7-9 Mathematics
-
-#### 2003-2008 Master of Science (Chemistry) Monash University
-- Title: Effect of Bushfires on Receiving Waters, Eastern Victoria.
-- Specific Achievements: Presentations at several Fire Forums coordinated by DSE and have produced two key interim reports. Data collection using a wide variety of sources including: Vic Water Data Database. 14 Field trips: sample collection and analysis. Working with a number of stakeholders including DSE, GMW, CMAs, Water Authorities and sampling contractors. By research: 100%
-
-#### 1996-1999 Bachelor of Science Monash University
--Major in chemistry and biological sciences
+I have extensive experience presenting to an extensive variety of audiences and very capably prepare and deliver effective presentations and lessons. As part of my Master's work, I had to communicate with the wider public through various talks and public forums. My position as a lab technician at the Invetech Research and Development required dealing with a lot of software. After the completion of a series of MS Access database courses I was able to create a database driven test system. This was exported to various third parties worldwide that used the hardware system under development. I continued to utilise my computer skills in my thesis work, both in consolidating and analysing data, researching via the Internet and writing the actual thesis. I have also successfully managed a research biohazard laboratory which required sharp judgment skills in order to maintain an effective and safe working environment. This included maintaining OH&S standards as well as ISO 9000 standards, ordering reagents and maintaining equipment.
 
 ## Skills
- - Highly proficient in using MS Office Suite programs particularly in MS Access database development. Active Twitter and Blogger with an overall high level of computer and internet literacy.
 
-## Membership
-2010-Current Victoria Institute of Teaching
-2009-2011 Science Teachers Association of Victoria
-2006-Current Fairfield Canoe Club
-2007-2012 Carnegie and Caulfield Cycling Club
+## Professional Experience
 
-## Projects
+#### <b>2022-2023 -  Graduate Developer Thoughtworks</b>
 
-hack-a-thon
-bob
-qrtc
+**Government Based Client** (4 months)
 
-## Community
+- React, NodeJS, TDD Jest? React Testing library and Cypress?
+- Strong team player
+  - Pairing Champion and running feedback session for the team
+  - Inception and working with team to develop a strong techical solution to adapt to an existing backend framework usint a BFF (Backend For Frontends)
+  - facilitate daily stand-ups and team retros. Presented at showcases. Practively asked for direction, knew when to persist and when to pull in other expertise.
 
-- 2017 River Detective Pilot Program School Leader Collingwood College
-- 2020- Wilderness First Aid Level 2 Training
-- 2017 Safe Schools Training, Anaphylaxis training, Protecting Children – Mandatory Reporting and Other Obligations
-- 2016/2017 International Baccalaureate Training MYP Cat 2 Science, MYP Cat 2 ATL Skills, DP Cat 1 Biology, DP Cat 1 ESS, DP Cat 2 CAS
-- 2016-current Coach for Collingwood All Stars U11 Girls Basketball team
-- 2015/2016 Backstage runner for Melbourne School Classical Dance annual performance.
-- 2010-Current Level 2 First Aid
-- 2010-Current Annual STAV Science Teacher conference attendee
-- 2010 Bike Education Certificate
-- 2009 Waterwatch Training
-- 2004-2020 Australian Breastfeeding Association Counsellor
-- 2008- 2009 Taraleigh Steiner Preschool Garden Coordinator
-- 2007- Current Road Cycling: completed the 2009 Alpine Classic 140k and regular participant in road cycling races
-- 2002 Bronze Medal, Canoe Polo World Championships, Essen Germany
-- 2001 MS Access Training Course
-- 1994-1999 Flat water Kayaking Murray Marathon Paddler, schools relay and full distance TK1 and TK2
-- 1990-Current Basketball and Netball (School colours for both in 1995), premier level at Jells Park (2008) for netball
-- 1999 Monash Bushwalking Club Social Secretary
-- 1999 Winner Winter Classic Multisport mixed marathon pair full distance
-- 1992-1995 Gold Duke of Edinburgh Awards Gold Silver and Bronze
+**Internal Project** (1 month)
+
+- Updated internal legacy project to meet security requirments
+
+**Client in the Education space** (1 month)
+
+- PHP Drupal
+
+**Training**
+
+- Infrastructure training in Terraform and AWS - internal Thoughtworks
+  - Design, provision and run 2-tier web applications within a set of Docker containers
+  - Deploy/run a Kubernetes cluster in a sandbox environment
+- Thoughtworks University Intensive followed by monthly sessions
+  - Pairing practices
+  - Test Driven Development (TDD)
+  - Consultancy Skills
+  - Designing thinking & accessability
+  - Consulting Skills Course (August 2022)
+
+**Team**
+
+- Social Events Organiser: planning and facilitaing onsite and offsight social events for Thoughtworks at the Melbourne office
+
+#### <b>2010-2021 -  Secondary Science  and Outdoor Education Teacher </b>
+
+ Schools include: Collingwood College, Sophia Mundi and Preshil
+
+- My understanding of current education models and the curriculum framework in Victoria and Australia gives me a great base to incorporate my own creative ideas into various learning disciplines.
+- I have provided an engaging and yet challenging science classroom for all learner types. My experience as a Steiner teacher combine with the MYP inquiry based education has enabled me to experience a wide spectrum of learning frameworks both of which have many common elements.
+- I have good experience in allowing people to link experiences, emotions and passion around learning the facts of a concept to lead to further learning outcomes. |
+
+- Curriculum development and teaching science underpinned using the International Baccalaureate MYP inquiry based framework for year 7-10 science. VCE Biology and Chemistry, IB Diploma program curriculum planning for environmental science (ESS).
+>
+- Planned excursions and supported staff on school camps. Worked with colleagues to develop policies such as for academic honesty. Wrote articles for school newsletter to update the community on the science departments current learning focus.
+>
+- Regular use of ICT outside and within the classroom such as google classroom, powerpoint, compass, rubicon and managebac.
+
+#### <b>2007-2010 Laboratory Technician </b>
+
+#### <b>2000-2003 Laboratory Research Technician Invetech Vision Systems Australia </b>
+
+#### <b>2000 Process Chemist Henkel Australia P/L</b>
+
+<br></br>
+
+## Education
+
+- Full Stack Developer Boot Camp  <b>Le Wagon</b>  2021
+- Graduate Diploma of Education <b>Monash University</b> 2009
+- Master of Science (Chemistry) <b>Monash University</b> 2008
+- Bachelor of Science <b>Monash University</b> 1999
