@@ -2,19 +2,32 @@ portfolioitems:
   # portfolio category
   - title: Coding Projects
     portfolioitem:
+      - name: Change Notifier
+        link: https://github.com/sjalex78/change-notifier
+        description: 'An app that aims to help busy basketball parents be notified of game time changes and have this automatically update in the family google calender'
+        start: 'May 2022'
+        end: 'Current'
+        status: 'IN DEVELOPMENT'
+        tags:
+          - basketball
+          - Ruby on Rails
+          - React
+        authors:
+          - Sarah Alexander
+          - '[Michael Milewski](https://github.com/saramic)'
       - name: Sci-Poster
-        images: 'images/portfolio/bob_landing_page.png'
+        # images: 'static/images/bob/FindingProductCreateList.gif'
         link: https://github.com/sjalex78/sci-code
         description: 'FAn app for secondary school students studying science to generate printable scientific posters and research posters. The app will also enable student collaboration and for feedback from educators which will help students learn to create science posters and refine their final poster output.'
         tags:
           - Ruby on Rails
           - education
-        status: 'In Development'
+        status: 'Paused'
         start: 'Feb 2022'
         authors:
           - Sarah Alexander
       - name: BOB Build Our Business
-        #image: 'images/portfolio/bob_landing_page.png'
+        # image: 'images/portfolio/bob_landing_page.png'
         link: https://le-bob-app.herokuapp.com/
         description: 'Le Wagon Boot Camp Final Project. **Target:** People looking for software to leverage to grow their businesses & complete tasks more efficiently. **Pain:** Business owners & freelancers spend precious time trying to find the right software to use to complete their next task. **Solution:** An all-in-one business software Wiki application with relevant software categorised for ease of access. **Originality:** Rather than scouring blog posts and review sites on search engines, they can access relevant info in one place. **Read about** the development of [BOB here](/posts/20211202-bob-build-our-business-background/).'
         tags:
