@@ -25,6 +25,14 @@ I have extensive experience presenting to an extensive variety of audiences and 
 
 ## Professional Experience
 
+#### <b>2023-Current -  Junior React Developer Fat Zebra</b>
+ 
+ [fatzebra.com][def]
+
+**Fat Zebra - Payments for today's internet economy**
+
+We've modernised payments. With a simple, one-time integration, our payments network opens up a world of opportunity. Businesses large and small use Fat Zebra to accept payments, and manage their businesses online.
+
 #### <b>2022-2023 -  Graduate Developer Thoughtworks</b>
 
 **Government Based Client** (4 months)
@@ -87,3 +95,6 @@ I have extensive experience presenting to an extensive variety of audiences and 
 - Graduate Diploma of Education <b>Monash University</b> 2009
 - Master of Science (Chemistry) <b>Monash University</b> 2008
 - Bachelor of Science <b>Monash University</b> 1999
+
+
+[def]: fatzebra.com
