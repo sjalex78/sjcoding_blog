@@ -7,7 +7,7 @@ draft: false
 
 After a huge 2020 2021 in Melbourne a fresh and new perspective about my professional life has emerged. This has prompted a professional journey  direction change resulting in me having enrolled to complete a full stack coding bootcamp...
 
-I hope that blogging about my coding development will give fresh insights about how a professional educator learns a new language and transfers the knowledge of learning principals from a students perspective.
+After the bold decision to make a career switch I find myself now as a Junior React developer learning something new everyday. My next chapter is to consolidate and start to figure out what I want from the career change and keep on learning!
 
 ![Banner](/images/banner_2.jpg)
 
