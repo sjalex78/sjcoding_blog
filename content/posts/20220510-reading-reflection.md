@@ -9,19 +9,11 @@ categories:
 ---
 # Becoming a consultant
 Last week I started my graduate training with [Thoughtworks](www.thoughtworks.com) and next week I really get into the thick of learning when I attend the [Thoughtworks University](https://www.thoughtworks.com/en-au/careers/graduates). There are many elements to get my head around join a new company as well as embarking on a significant career change, one of which is understanding and developing my consultancy skills.
-<<<<<<< HEAD
 
 Over the next six months I am aiming to have more clarity around the folllowing questions:
 - What is the type of consultant I strive to be?
 - What is it that I am now? Can be?
 - Who is the role model I can work with and strive to be like?
-=======
-****
-Over the next six months I am aiming to have more clarity around the folllowing questions:
-- What is the type of consultant I strive to be?
-- What is it that I am now? Can be?
-- Who is the role model I can work with and strive to be like?
->>>>>>> b00c23c (Blog Update)
 
 Lots of learning, reflection, reading discussion to develope my new career path to come ....
 
